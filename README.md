@@ -2,5 +2,5 @@
 
 This was my first project using HTML and CSS attributes to make a pixel-perfect copy of Yelp's homepage. 
 
-![Alt Text](https://giphy.com/embed/O7MpL1ATqcORBfzO3p)
+![Alt Text](https://media.giphy.com/media/O7MpL1ATqcORBfzO3p/giphy.mp4)
 
